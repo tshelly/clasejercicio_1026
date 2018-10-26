@@ -1,0 +1,350 @@
+ID Region,Region,ID Comuna,Comuna,ID Year,Year,ID Level 1,Level 1,ID Level 2,Level 2,Investment
+1,Tarapacá,113,Iquique,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+1,Tarapacá,113,Iquique,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+1,Tarapacá,113,Iquique,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+2,Antofagasta,9,Antofagasta,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+2,Antofagasta,9,Antofagasta,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+2,Antofagasta,9,Antofagasta,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+2,Antofagasta,9,Antofagasta,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",336121.0
+3,Atacama,21,Caldera,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+3,Atacama,21,Caldera,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+3,Atacama,21,Caldera,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+3,Atacama,81,Diego De Almagro,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+3,Atacama,81,Diego De Almagro,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+3,Atacama,81,Diego De Almagro,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+3,Atacama,81,Diego De Almagro,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+3,Atacama,81,Diego De Almagro,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+3,Atacama,81,Diego De Almagro,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+3,Atacama,81,Diego De Almagro,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+3,Atacama,81,Diego De Almagro,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+3,Atacama,81,Diego De Almagro,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+3,Atacama,81,Diego De Almagro,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+4,Coquimbo,7,Andacollo,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+4,Coquimbo,7,Andacollo,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+4,Coquimbo,111,Illapel,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+4,Coquimbo,111,Illapel,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+4,Coquimbo,111,Illapel,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+4,Coquimbo,126,La Serena,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+4,Coquimbo,126,La Serena,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+4,Coquimbo,126,La Serena,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+4,Coquimbo,126,La Serena,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+4,Coquimbo,126,La Serena,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+4,Coquimbo,126,La Serena,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+4,Coquimbo,156,Los Vilos,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,16,Cabildo,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,16,Cabildo,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,16,Cabildo,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,16,Cabildo,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,16,Cabildo,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,24,Calle Larga,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,24,Calle Larga,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,24,Calle Larga,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,30,Cartagena,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,30,Cartagena,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,30,Cartagena,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,30,Cartagena,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,30,Cartagena,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,30,Cartagena,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,30,Cartagena,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,30,Cartagena,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,30,Cartagena,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,63,Con Cón,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,63,Con Cón,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,63,Con Cón,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,63,Con Cón,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,138,Limache,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,242,Putaendo,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,242,Putaendo,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,242,Putaendo,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,242,Putaendo,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,257,Quintero,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,257,Quintero,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,257,Quintero,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,279,San Antonio,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,279,San Antonio,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,279,San Antonio,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,331,Valparaiso,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,331,Valparaiso,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,331,Valparaiso,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,331,Valparaiso,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,331,Valparaiso,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,339,Viña Del Mar,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+5,Valparaíso,339,Viña Del Mar,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,56,Coinco,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,56,Coinco,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,56,Coinco,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,223,Placilla,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,223,Placilla,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,259,Rancagua,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,259,Rancagua,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,259,Rancagua,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,259,Rancagua,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,259,Rancagua,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,259,Rancagua,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,259,Rancagua,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,266,Requinoa,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,266,Requinoa,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,266,Requinoa,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,266,Requinoa,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,286,San Fernando,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,304,Santa Cruz,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,304,Santa Cruz,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+6,O'Higgins,304,Santa Cruz,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+7,Maule,79,Curicó,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+7,Maule,261,Rauco,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+7,Maule,289,San Javier,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+7,Maule,289,San Javier,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+7,Maule,289,San Javier,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+7,Maule,289,San Javier,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+7,Maule,311,Talca,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+7,Maule,311,Talca,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+7,Maule,311,Talca,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+7,Maule,311,Talca,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+7,Maule,311,Talca,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+7,Maule,311,Talca,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+7,Maule,311,Talca,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+7,Maule,311,Talca,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+7,Maule,332,Vichuquén,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+8,Biobío,49,Cobquecura,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",16601789.0
+8,Biobío,64,Concepción,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+8,Biobío,64,Concepción,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+8,Biobío,64,Concepción,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+8,Biobío,64,Concepción,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+8,Biobío,64,Concepción,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",9579832.0
+8,Biobío,64,Concepción,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+8,Biobío,64,Concepción,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",18274563.0
+8,Biobío,64,Concepción,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+8,Biobío,64,Concepción,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+8,Biobío,64,Concepción,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",15126053.0
+8,Biobío,152,Los Angeles,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+8,Biobío,152,Los Angeles,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+8,Biobío,152,Los Angeles,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+8,Biobío,152,Los Angeles,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+8,Biobío,152,Los Angeles,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",2874553.0
+8,Biobío,251,Quillón,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+8,Biobío,251,Quillón,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+8,Biobío,251,Quillón,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",733300.0
+8,Biobío,298,San Pedro De La Paz,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+9,Araucanía,8,Angol,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+9,Araucanía,100,Gorbea,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+9,Araucanía,100,Gorbea,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+9,Araucanía,158,Lumaco,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+9,Araucanía,194,Padre Las Casas,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+9,Araucanía,194,Padre Las Casas,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+9,Araucanía,194,Padre Las Casas,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+9,Araucanía,194,Padre Las Casas,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+9,Araucanía,194,Padre Las Casas,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",966384.0
+9,Araucanía,194,Padre Las Casas,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+9,Araucanía,194,Padre Las Casas,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+9,Araucanía,194,Padre Las Casas,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+9,Araucanía,230,Pucón,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",1192437.0
+9,Araucanía,230,Pucón,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",167984.0
+9,Araucanía,276,Saavedra,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+9,Araucanía,314,Temuco,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+9,Araucanía,314,Temuco,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+10,Los Lagos,6,Ancud,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+10,Los Lagos,6,Ancud,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+10,Los Lagos,6,Ancud,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+10,Los Lagos,32,Castro,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+10,Los Lagos,191,Osorno,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+10,Los Lagos,191,Osorno,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+10,Los Lagos,191,Osorno,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+10,Los Lagos,191,Osorno,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+10,Los Lagos,191,Osorno,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+10,Los Lagos,233,Puerto Montt,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",3319442.0
+10,Los Lagos,233,Puerto Montt,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",1169963.0
+10,Los Lagos,233,Puerto Montt,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",3269021.0
+10,Los Lagos,233,Puerto Montt,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",2073579.0
+10,Los Lagos,233,Puerto Montt,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",1450958.0
+10,Los Lagos,233,Puerto Montt,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",481084.0
+10,Los Lagos,235,Puerto Varas,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+10,Los Lagos,235,Puerto Varas,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",7895432.0
+10,Los Lagos,235,Puerto Varas,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",30464337.0
+10,Los Lagos,235,Puerto Varas,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",840000.0
+10,Los Lagos,235,Puerto Varas,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+10,Los Lagos,235,Puerto Varas,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",908953.0
+10,Los Lagos,235,Puerto Varas,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+10,Los Lagos,235,Puerto Varas,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+10,Los Lagos,241,Purranque,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+11,Aysén,54,Coihaique,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+11,Aysén,54,Coihaique,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+11,Aysén,54,Coihaique,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+11,Aysén,54,Coihaique,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+11,Aysén,54,Coihaique,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+11,Aysén,54,Coihaique,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+11,Aysén,54,Coihaique,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+11,Aysén,54,Coihaique,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+11,Aysén,54,Coihaique,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+11,Aysén,54,Coihaique,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+12,Magallanes,179,Natales,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+12,Magallanes,179,Natales,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+12,Magallanes,179,Natales,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+12,Magallanes,179,Natales,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+12,Magallanes,179,Natales,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+12,Magallanes,238,Punta Arenas,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+12,Magallanes,238,Punta Arenas,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+12,Magallanes,238,Punta Arenas,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,14,Buin,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,14,Buin,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,14,Buin,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,14,Buin,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,14,Buin,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,14,Buin,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,14,Buin,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,14,Buin,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,14,Buin,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,14,Buin,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,83,El Bosque,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,83,El Bosque,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,83,El Bosque,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,83,El Bosque,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,83,El Bosque,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,85,El Monte,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,85,El Monte,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,90,Estacion Central,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,90,Estacion Central,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,90,Estacion Central,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,90,Estacion Central,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,90,Estacion Central,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,90,Estacion Central,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,90,Estacion Central,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,114,Isla De Maipo,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,120,La Florida,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",216789.0
+13,Region Metropolitana Santiago,120,La Florida,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",4316794.0
+13,Region Metropolitana Santiago,120,La Florida,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",975884.0
+13,Region Metropolitana Santiago,120,La Florida,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",4358595.0
+13,Region Metropolitana Santiago,120,La Florida,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",1067195.0
+13,Region Metropolitana Santiago,120,La Florida,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",13221289.0
+13,Region Metropolitana Santiago,120,La Florida,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",436948.0
+13,Region Metropolitana Santiago,120,La Florida,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",873663.0
+13,Region Metropolitana Santiago,120,La Florida,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",815110.0
+13,Region Metropolitana Santiago,120,La Florida,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",300252.0
+13,Region Metropolitana Santiago,134,Las Condes,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,134,Las Condes,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,134,Las Condes,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,134,Las Condes,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,134,Las Condes,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,134,Las Condes,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",1188216.0
+13,Region Metropolitana Santiago,134,Las Condes,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,134,Las Condes,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,134,Las Condes,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,134,Las Condes,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,143,Lo Barnechea,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,143,Lo Barnechea,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,143,Lo Barnechea,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,160,Macul,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,160,Macul,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,162,Maipú,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,162,Maipú,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,162,Maipú,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,162,Maipú,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",455021.0
+13,Region Metropolitana Santiago,162,Maipú,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",9822489.0
+13,Region Metropolitana Santiago,162,Maipú,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",1263153.0
+13,Region Metropolitana Santiago,162,Maipú,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",31738399.0
+13,Region Metropolitana Santiago,162,Maipú,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",74095847.0
+13,Region Metropolitana Santiago,162,Maipú,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",48754605.0
+13,Region Metropolitana Santiago,162,Maipú,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",9164695.0
+13,Region Metropolitana Santiago,172,Melipilla,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,172,Melipilla,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,186,Ñuñoa,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",27903690.0
+13,Region Metropolitana Santiago,186,Ñuñoa,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",29574263.0
+13,Region Metropolitana Santiago,186,Ñuñoa,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",32502369.0
+13,Region Metropolitana Santiago,186,Ñuñoa,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",2920679.0
+13,Region Metropolitana Santiago,186,Ñuñoa,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",2279063.0
+13,Region Metropolitana Santiago,186,Ñuñoa,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",20398706.0
+13,Region Metropolitana Santiago,193,Padre Hurtado,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,193,Padre Hurtado,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,193,Padre Hurtado,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,193,Padre Hurtado,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,197,Paine,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,197,Paine,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,212,Peñalolén,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,212,Peñalolén,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,212,Peñalolén,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,221,Pirque,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,221,Pirque,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,221,Pirque,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,228,Providencia,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",16842353.0
+13,Region Metropolitana Santiago,228,Providencia,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",46410121.0
+13,Region Metropolitana Santiago,228,Providencia,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",42734232.0
+13,Region Metropolitana Santiago,228,Providencia,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",5744268.0
+13,Region Metropolitana Santiago,228,Providencia,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",9236521.0
+13,Region Metropolitana Santiago,228,Providencia,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",15276210.0
+13,Region Metropolitana Santiago,228,Providencia,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",7207469.0
+13,Region Metropolitana Santiago,228,Providencia,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,228,Providencia,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,228,Providencia,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,232,Puente Alto,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,232,Puente Alto,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,256,Quinta Normal,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,256,Quinta Normal,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,256,Quinta Normal,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,262,Recoleta,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,262,Recoleta,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,262,Recoleta,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,262,Recoleta,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,262,Recoleta,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,262,Recoleta,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,262,Recoleta,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,262,Recoleta,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,280,San Bernardo,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,280,San Bernardo,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,280,San Bernardo,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,290,San Joaquín,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,290,San Joaquín,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,290,San Joaquín,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,290,San Joaquín,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,290,San Joaquín,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,290,San Joaquín,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,290,San Joaquín,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",5688653.0
+13,Region Metropolitana Santiago,291,San José De Maipo,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,300,San Ramón,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,307,Santiago,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",24997221.0
+13,Region Metropolitana Santiago,307,Santiago,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",92958421.0
+13,Region Metropolitana Santiago,307,Santiago,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",10601432.0
+13,Region Metropolitana Santiago,307,Santiago,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",30551458.0
+13,Region Metropolitana Santiago,307,Santiago,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",12930195.0
+13,Region Metropolitana Santiago,307,Santiago,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",39657931.0
+13,Region Metropolitana Santiago,307,Santiago,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",19666916.0
+13,Region Metropolitana Santiago,307,Santiago,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",976764205.0
+13,Region Metropolitana Santiago,307,Santiago,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",3531554995.0
+13,Region Metropolitana Santiago,307,Santiago,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",590474816.0
+13,Region Metropolitana Santiago,310,Talagante,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,310,Talagante,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,340,Vitacura,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,340,Vitacura,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,340,Vitacura,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,340,Vitacura,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,340,Vitacura,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,340,Vitacura,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,340,Vitacura,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,340,Vitacura,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,340,Vitacura,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,340,Vitacura,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,346,Lampa,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,346,Lampa,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,346,Lampa,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,346,Lampa,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,346,Lampa,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,346,Lampa,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,346,Lampa,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,346,Lampa,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,346,Lampa,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+13,Region Metropolitana Santiago,346,Lampa,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+14,Los Ríos,329,Valdivia,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+14,Los Ríos,329,Valdivia,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+14,Los Ríos,329,Valdivia,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+14,Los Ríos,329,Valdivia,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+14,Los Ríos,329,Valdivia,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+14,Los Ríos,329,Valdivia,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+14,Los Ríos,329,Valdivia,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+15,Arica y Parinacota,12,Arica,2005,2005,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+15,Arica y Parinacota,12,Arica,2006,2006,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+15,Arica y Parinacota,12,Arica,2007,2007,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+15,Arica y Parinacota,12,Arica,2008,2008,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+15,Arica y Parinacota,12,Arica,2009,2009,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+15,Arica y Parinacota,12,Arica,2010,2010,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+15,Arica y Parinacota,12,Arica,2011,2011,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+15,Arica y Parinacota,12,Arica,2012,2012,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+15,Arica y Parinacota,12,Arica,2013,2013,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
+15,Arica y Parinacota,12,Arica,2014,2014,R,"Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",0.0
