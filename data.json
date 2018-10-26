@@ -1,0 +1,21 @@
+[
+	{
+		"user":"EMPLEADOS",
+		"cant":4.687,
+		
+	},
+	{
+		"user":"PRODUCCIÓN POR TRABAJADOR",
+		"cant": 2.574.687,
+		
+	},
+
+	{
+		"user":"TOP REGIÓN PRODUCTORA",
+		"day": 11,
+        "user":"MILES DE MILLONES",
+        "NM":"RM",
+	},
+
+	
+]
