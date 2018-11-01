@@ -1,0 +1,89 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<title>Visualizando datos con p5.js</title>
+<link href="style.css" rel="stylesheet">
+</head>
+    <style>
+    p { color: #B8B3E8; }
+  </style>
+<body>
+<nav class="navbar navbar-expand-md navbar-light fixed-top bg-white">
+<div class="container">
+	<a class="navbar-brand" href="index.html">ACTIVIDADES DE BIBLIOTECAS, ARCHIVOS Y MUSEOS Y OTRAS ACTIVIDADES CULTURA</a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+	<span class="navbar-toggler-icon"></span>
+	</button>
+	<div class="collapse navbar-collapse" id="navbarsExampleDefault">
+		<ul class="navbar-nav ml-auto">
+			<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+			<li class="nav-item active"><a class="nav-link" href="sketch-1.html">Primera</a></li>
+			<li class="nav-item"><a class="nav-link" href="sketch-2.html">Segunda</a></li>
+			<li class="nav-item"><a class="nav-link" href="sketch-3.html">Tercera</a></li>
+		</ul>
+	</div>
+</div>
+</nav>
+<!--biblioteca de p5.js-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.min.js"></script>
+<!--bibliteca auxiliar, sirve para que p5.js pueda manipular el dom-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/addons/p5.dom.min.js"></script>
+<!--corre la bolita-->
+    
+   <div class="container">
+    	<div class="row">
+    		<div class="col py-5">
+		    	<p>Los datos que se muestran corresponde a Actividades artísticas, de entretenimiento y recreativas:</p>
+			</div>
+		</div>
+    </div>
+    
+<script>
+
+function setup(){
+	var canvas = createCanvas(windowWidth,windowHeight);
+	canvas.position(0,0);
+	canvas.style('z-index','-1');
+	console.log("sketch1!");
+    
+    
+}
+
+function draw(a){
+	var a = windowWidth/5;
+    ellipse(((windowWidth/5)*4),150,150,150);
+    background(32,36,117);
+          
+    fill(146, 194, 232);
+      ellipse(((windowWidth/5)*4),190,190,190);
+      textAlign(CENTER);
+      text(" Región Productora:RM $11 MILES DE MILLONES",((windowWidth/5)*4),300);
+    
+    
+    
+      fill(146, 194, 232);
+      ellipse(((windowWidth/5)*2),190,10,10);      
+        textAlign(CENTER);
+      
+      text("Empleados:4.687",((windowWidth/5)*2),300,);
+       
+    
+    fill(146, 194, 232);
+      ellipse(((windowWidth/5)*2.8),190,30,30);
+        textAlign(CENTER);
+text("Producción Por Trabajador:$2.574.687",((windowWidth/5)*3),300);
+ 
+}
+
+function windowResized() {
+  	resizeCanvas(windowWidth,200);
+}
+</script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
